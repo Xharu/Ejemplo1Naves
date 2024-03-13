@@ -1,0 +1,5 @@
+E:\sis457\molina\Ejemplo1Naves\Intermediate\Build\Win64\UE4Editor\Development\Ejemplo1Naves\Definitions.Ejemplo1Naves.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\sis457\molina\Ejemplo1Naves\Source\Ejemplo1Naves/Shapes.h
+E:\sis457\molina\Ejemplo1Naves\Intermediate\Build\Win64\UE4Editor\Inc\Ejemplo1Naves\Shapes.generated.h

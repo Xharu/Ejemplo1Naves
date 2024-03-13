@@ -1,0 +1,2 @@
+E:\sis457\molina\Ejemplo1Naves\Intermediate\Build\Win64\UE4Editor\Development\Ejemplo1Naves\Definitions.Ejemplo1Naves.h
+E:\sis457\molina\Ejemplo1Naves\Source\Ejemplo1Naves\Ejemplo1Naves.h

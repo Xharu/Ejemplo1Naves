@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Ejemplo1Naves",
+			"Path": "E:\\sis457\\molina\\Ejemplo1Naves\\Source\\Ejemplo1Naves.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Ejemplo1NavesEditor",
+			"Path": "E:\\sis457\\molina\\Ejemplo1Naves\\Source\\Ejemplo1NavesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

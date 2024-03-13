@@ -1,0 +1,11 @@
+E:\sis457\molina\Ejemplo1Naves\Intermediate\Build\Win64\UE4Editor\Development\Ejemplo1Naves\Definitions.Ejemplo1Naves.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\sis457\molina\Ejemplo1Naves\Source\Ejemplo1Naves/Ejemplo1NavesPawn.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+E:\sis457\molina\Ejemplo1Naves\Intermediate\Build\Win64\UE4Editor\Inc\Ejemplo1Naves\Ejemplo1NavesPawn.generated.h
